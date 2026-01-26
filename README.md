@@ -5,38 +5,38 @@ Tashkent, Uzbekistan
 
 ---
 
-## About Me
+## About me
 
-I build reliable, production-grade systems and explore how to bring machine learning models into real-world production.  
-Currently focused on backend development with async Python stacks, containerization, CI/CD, and early steps in recommendation systems.
+I build reliable, production-grade systems and explore how to bring machine learning models into real-world production.
 
-## Tech Stack
+## Skills
 
 - **Languages**: Python, Java, C, C++  
 - **Web / API**: FastAPI, Pydantic  
-- **Databases / ORM**: PostgreSQL, SQLAlchemy (async)  
+- **Databases / ORM**: PostgreSQL, SQLAlchemy  
 - **DevOps**: Docker, Docker Compose, GitHub Actions  
-- **Testing**: Pytest (with async clients and DB isolation)  
-- **Migrations**: Alembic
+- **Testing**: Pytest  
+- **Migrations**: Alembic  
 
-**Current deep focus:**
-- Production-quality backend architecture & automation
-- Async Python, reliable testing, containerization
-- First serious machine learning deployment experience
+## Focus & Direction
 
-**My clear long-term direction:**
-- Turn **ani-mind** into a complete ML recommendation system
-- Master **Infrastructure as Code** (Terraform)
-- Learn real **Kubernetes** & GitOps (ArgoCD/Flux)
-- Build serious **MLOps** expertise:
-  - model versioning & tracking
-  - production serving
-  - monitoring, drift detection & automated retraining
+**Current deep focus:**  
+- Production-quality backend architecture & automation  
+- Building scalable AI inference pipelines and model serving  
+- Experiment tracking, model versioning & production deployment with modern MLOps stacks  
+
+**My clear long-term direction:**  
+- Master **Infrastructure as Code** (Terraform)  
+- Learn real **Kubernetes** & GitOps (ArgoCD/Flux)  
+- Build serious **MLOps** expertise:  
+  - model versioning & tracking  
+  - production serving  
+  - monitoring, drift detection & automated retraining  
 - Create several **end-to-end portfolio projects**  
-  (backend + ML + full production deployment & observability)
+  (backend + ML + full production deployment & observability)  
 
 ---
 
-Open to messages on LinkedIn or X.  
+Open to collaboration & opportunities.  
 LinkedIn: https://www.linkedin.com/in/aziz-rixsiev-3a030338a  
 X: https://x.com/ayzrixsiev
