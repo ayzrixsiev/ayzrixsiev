@@ -1,13 +1,17 @@
 # Aziz
 
-Aspiring **DevOps / MLOps Engineer**  
+**Backend / Data Engineer**  
+Python • SQL • Data Pipelines • Automation
+
 Tashkent, Uzbekistan
 
 ---
 
 ## About me
 
-I build reliable, production-grade systems and explore how to bring machine learning models into real-world production.
+I’m a **Computer Science student at CAU** focused on building backend systems centered around data processing, automation, and reliability.
+I’m particularly interested in **production-grade systems** and in exploring how machine learning models can be integrated into real-world backend architectures, from data pipelines to reliable deployment.
+
 
 ## Skills
 
@@ -18,22 +22,19 @@ I build reliable, production-grade systems and explore how to bring machine lear
 - **Testing**: Pytest  
 - **Migrations**: Alembic  
 
-## Focus & Direction
+## Focus
 
 **Current deep focus:**  
 - Production-quality backend architecture & automation  
-- Building scalable AI inference pipelines and model serving  
-- Experiment tracking, model versioning & production deployment with modern MLOps stacks  
+- Reliable data ingestion, transformation & serving layers  
+- Analytical schemas, aggregates & behavior insights  
+- Batch pipelines & data quality automation  
 
-**My clear long-term direction:**  
-- Master **Infrastructure as Code** (Terraform)  
-- Learn real **Kubernetes** & GitOps (ArgoCD/Flux)  
-- Build serious **MLOps** expertise:  
-  - model versioning & tracking  
-  - production serving  
-  - monitoring, drift detection & automated retraining  
-- Create several **end-to-end portfolio projects**  
-  (backend + ML + full production deployment & observability)  
+**Long-term direction:**
+- Infrastructure automation & reproducible deployments (Terraform, Docker, CI/CD)
+- Scalable backend systems supporting ML workloads (FastAPI, async Python, PostgreSQL)
+- End-to-end systems combining backend, data pipelines, and production deployment (Python, SQL, batch pipelines, containerized services)
+
 
 ---
 
