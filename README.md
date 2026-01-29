@@ -39,5 +39,5 @@ I’m particularly interested in **production-grade systems** and in exploring h
 ---
 
 Open to collaboration & opportunities.  
-LinkedIn: https://www.linkedin.com/in/aziz-rixsiev-3a030338a  
+LinkedIn: https://www.linkedin.com/in/ayzrixsiev  
 X: https://x.com/ayzrixsiev
