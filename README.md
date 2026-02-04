@@ -20,5 +20,5 @@ I’m particularly interested in production-grade systems and in exploring how m
 ---
 
 Open to collaboration & opportunities.  
-LinkedIn: https://www.linkedin.com/in/ayzrixsiev/
+LinkedIn: https://www.linkedin.com/in/ayzrixsiev/    
 X: https://x.com/ayzrixsiev
