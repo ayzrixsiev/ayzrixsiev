@@ -6,7 +6,7 @@ Tashkent, Uzbekistan
 ---
 
 ## About me
-I’m a **Computer Science student at CAU** focused on building backend systems centered around data processing, automation, and reliability.  
+I’m a **Computer Science student at CAU** (Top 1 in Ranking with the highest GPA) focused on building backend systems centered around data processing, automation, and reliability.  
 I’m particularly interested in production-grade systems and in exploring how machine learning models can be integrated into real-world backend architectures, from data pipelines to reliable deployment.
 
 ## Projects
