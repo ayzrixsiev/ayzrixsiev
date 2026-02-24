@@ -1,6 +1,6 @@
 # Aziz Rixsiev
 
-AI & Data Systems Engineer | Backend Systems • Data Processing • ML • Automation & Testing   
+Data oriented Backend Systems Engineer | Data Processing • ML • Automation & Testing    
 Tashkent, Uzbekistan
 
 ---
