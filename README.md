@@ -3,7 +3,7 @@ Data oriented Software Engineer | System Design | Backend Architecture
 
 ___
 ### About me
-I am a **Computer Science student at CAU** focused on building backend systems centered around large-scale data processing and automation. I build high-performance end-to-end services with FastAPI, C++ and Go, and integrating machine learning models into these systems.
+I am a **Computer Science student at CAU** focused on building backend systems centered around large-scale data processing and automation. I build high-performance end-to-end services with FastAPI and Go, and integrating machine learning models into these systems.
 
 ### Projects
 - **[Fin-Pulse](https://github.com/ayzrixsiev/Fin-Pulse)** - 
