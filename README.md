@@ -1,5 +1,5 @@
 ### Aziz Rixsiev
-Data oriented Software Engineer | System Design | Backend Architecture
+ML Software Engineer | System Design
 
 ___
 ### About me
