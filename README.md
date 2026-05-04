@@ -1,6 +1,5 @@
 ___
-### Aziz Rixsiev
-ML Software Engineer | System Design
+### ML Software Engineer | System Design
 
 ___
 ### About me
