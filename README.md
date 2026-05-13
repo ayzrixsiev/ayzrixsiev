@@ -1,5 +1,5 @@
 ___
-### Software Engineer | System design | Architecture
+### Software Engineer | Software Architecture | System Design
 
 ___
 I have experience in backend engineering, scalable system design, and data-intensive platforms. I build high-performance services with FastAPI and Go, design distributed and high-load backend architectures, and integrate machine learning systems into production environments.
